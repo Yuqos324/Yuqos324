@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my Github profile!
 
-I am a student at CEP-CCIT-FTUI learning to become a software engineer.
+I am a student at CEP-CCIT-FTUI learning to become a programmer.
 
 <!--
 **Yuqos324/Yuqos324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
